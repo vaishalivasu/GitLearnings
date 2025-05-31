@@ -6,5 +6,7 @@ public class B {
 @Test
 public void btest() {
 	System.out.println("hi");
+	
+	System.out.println("1345");
 }
 }
