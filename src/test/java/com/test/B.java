@@ -7,6 +7,6 @@ public class B {
 public void btest() {
 	System.out.println("hi");
 	
-	System.out.println("1345");
+	System.out.println("12345");
 }
 }
